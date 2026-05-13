@@ -85,14 +85,6 @@ Yoga-Asana-Classifier/
 └── labels.npy           # Class label array
 ```
 
-## Screenshots
-
-| Screenshot | Description |
-|------------|-------------|
-| _(demo GIF placeholder)_ | Live inference — asana name overlaid on webcam feed |
-| _(screenshot placeholder)_ | Skeleton overlay with MediaPipe landmarks |
-| _(screenshot placeholder)_ | Data collection mode — frame counter display |
-
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
